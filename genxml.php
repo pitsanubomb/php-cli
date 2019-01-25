@@ -1,7 +1,5 @@
 <?php
 require 'vendor/autoload.php';
-$xmlfile_1 = './propertyCreate1.xml';
-$xmlfile_2 = './propertyCreate2.xml';
     class genXml {
         function genXmltoArray($file) {
             $xmlfile = $file;
