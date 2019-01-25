@@ -12,17 +12,17 @@
         protected $houseaddress;
         /** @Column(type="string") */
         protected $street;
-        /** @Column(type="int") */
+        /** @Column(type="integer") */
         protected $postcodeid;
-        /** @Column(type="int") */
+        /** @Column(type="integer") */
         protected $townid;
-        /** @Column(type="int") */
+        /** @Column(type="integer") */
         protected $regionid;
         /** @Column(type="float") */
         protected $latitude;
         /** @Column(type="float") */
         protected $longtitude;
-        /** @Column(type="int") */
+        /** @Column(type="integer") */
         protected $zoneid;
 
         public function getId(){
@@ -38,7 +38,7 @@
         }
 
         public function setHouseAddress($houseaddress) {
-            $this->houseaddress = $houseaddress
+            $this->houseaddress = $houseaddress;
         }
 
         public function getHouseAddress() {
@@ -46,7 +46,7 @@
         }
 
         public function setStreet($street) {
-            $this->street = $street
+            $this->street = $street;
         }
 
         public function getStreet() {
@@ -54,7 +54,7 @@
         }
 
         public function setPostCodeId($postcodeid) {
-            $this->postcodeid = $postcodeid
+            $this->postcodeid = $postcodeid;
         }
 
         public function getPostCodeId() {
@@ -62,7 +62,7 @@
         }
 
         public function setTownId($townid) {
-            $this->townid = $townid
+            $this->townid = $townid;
         }
 
         public function getTownId() {
@@ -70,18 +70,18 @@
         }
 
         public function setRegionId($regionid) {
-            $this->regionid = $regionid
+            $this->regionid = $regionid;
         }
 
         public function getRegionId() {
             return $this->regionid;
         }
 
-        public function setLattiTude($latitude) {
-            $this->lattitude = $latitude;
+        public function setLatiTude($latitude) {
+            $this->latitude = $latitude;
         }
 
-        public function getLattiTude() {
+        public function getLatiTude() {
             return $this->lattitude;
         }
 
@@ -93,13 +93,13 @@
             return $this->longtitude;
         }
 
-        public function setZonneId($zondeid) {
+        public function setZoneId($zondeid) {
             $this->zoneid = $zondeid;
         }
 
         public function getZoneId()
         {
-            return $this->zoneid
+            return $this->zoneid;
         }        
     }
 ?>
