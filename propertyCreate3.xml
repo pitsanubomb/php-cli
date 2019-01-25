@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UploadXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <System>
+    <PublicKey>QzFPRjE1NjIwMTgwODEzMjAwMzE2NUI3MTgxOTRCMUI1RDVCNzE4MTk0QjFDMDQ=</PublicKey>
+    <Version>MAP 1.1</Version>
+    <SystemName>Saga</SystemName>
+    <SentData Order="Create" SentDate="2562-01-11 12:36:16" Type="Property"/>
+  </System>
+  <Properties>
+    <Property>
+      <Address Country="TH">
+        <Title>{"en":"U Delight @ Huay Kwang Station","is":"U Delight @ Huay Kwang Station","th":"U Delight @ Huay Kwang Station"}</Title>
+        <HouseAddress>{"en":"Soi Wisutthi Niwet Yaek 1, Huai Khwang, Bangkok 10310","is":"Soi Wisutthi Niwet Yaek 1, Huai Khwang, Bangkok 10310","th":"Soi Wisutthi Niwet Yaek 1, Huai Khwang, Bangkok 10310"}</HouseAddress>
+        <Street>{"en":"Soi Wisutthi Niwet Yaek 1, Huai Khwang, Bangkok 10310","is":"Soi Wisutthi Niwet Yaek 1, Huai Khwang, Bangkok 10310","th":"Soi Wisutthi Niwet Yaek 1, Huai Khwang, Bangkok 10310"}</Street>
+        <HouseNumber/>
+        <PostalCodeID>0</PostalCodeID>
+        <TownID>0</TownID>
+        <RegionID>0</RegionID>
+        <Latitude>13.7722569</Latitude>
+        <Longitude>100.579865</Longitude>
+        <ZoneId>109</ZoneId>
+      </Address>
+      <Information>
+        <PropertyID>100-114-422</PropertyID>
+        <OfficeID>C1OF156201808132003165B718194B1B5D</OfficeID>
+        <SaleID>C1AG201809031630415B8CFF41023A0</SaleID>
+        <Mode Mode="2"/>
+        <PropertyCategory PropertyCategory="3824"/>
+        <PropertyType PropertyType="2"/>
+        <CurrentListingPrice>2480000</CurrentListingPrice>
+        <PropertyAppraisal>0</PropertyAppraisal>
+        <FireAppraisal>0</FireAppraisal>
+        <Mortgage>0</Mortgage>
+        <CurrentListingCurrency CurrentListingCurrency="ISK"/>
+        <RentalPriceGranularity RentalPriceGranularity="2"/>
+        <PropertyStatus PropertyStatus="1"/>
+        <ListingStatus/>
+        <FloorLevel FloorLevel="10.0"/>
+        <TotalArea>32.18</TotalArea>
+        <LivingArea>0</LivingArea>
+        <LandArea>0</LandArea>
+        <CubicVolume>0</CubicVolume>
+        <TotalNumberOfRooms>0</TotalNumberOfRooms>
+        <NumberOfBathrooms>1</NumberOfBathrooms>
+        <NumberOfLivingrooms>0</NumberOfLivingrooms>
+        <NumberOfBedrooms>1</NumberOfBedrooms>
+        <NumberOfToiletRooms>0</NumberOfToiletRooms>
+        <NumberOfFloors>2</NumberOfFloors>
+        <Entrance> - </Entrance>
+        <Garage>false</Garage>
+        <GarageArea>0</GarageArea>
+        <YearBuild>2011</YearBuild>
+        <UnitOfMeasue UnitOfMeasue="m2"/>
+        <PossessionDate>0001-01-01T00:00:00</PossessionDate>
+        <AvailabilityDate>0001-01-01T00:00:00</AvailabilityDate>
+        <OrigListingDate>2019-01-11T00:00:00</OrigListingDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <AlternateURL/>
+        <VirtualTour/>
+        <Elevator>false</Elevator>
+        <Featured>false</Featured>
+        <ProjectName>{"en":"U Delight @ Huay Kwang Station","is":"U Delight @ Huay Kwang Station","th":"U Delight @ Huay Kwang Station"}</ProjectName>
+        <CompanyName>{"en":null,"is":null,"th":null}</CompanyName>
+        <UnitCode/>
+        <UnitType/>
+      </Information>
+      <Description>
+        <LanguageID/>
+        <DescriptionText>{"en":"&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;U Delight @ Huay Kwang Station&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;2,480,000 THB Tower A&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;Floor 2 1 Bed 1 Bath&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;32.18 sq.m.&lt;/span&gt;&lt;/p&gt;","th":"&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;U Delight @ Huay Kwang Station&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;2,480,000 THB Tower A&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;Floor 2 1 Bed 1 Bath&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;32.18 sq.m.&lt;/span&gt;&lt;/p&gt;","is":""}</DescriptionText>
+      </Description>
+      <EnglishDescription>
+        <LanguageID/>
+        <DescriptionText>{"en":"&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;U Delight @ Huay Kwang Station&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;2,480,000 THB Tower A&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;Floor 2 1 Bed 1 Bath&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;32.18 sq.m.&lt;/span&gt;&lt;/p&gt;","th":"&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;U Delight @ Huay Kwang Station&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;2,480,000 THB Tower A&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;Floor 2 1 Bed 1 Bath&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(44, 44, 44);'&gt;32.18 sq.m.&lt;/span&gt;&lt;/p&gt;","is":""}</DescriptionText>
+      </EnglishDescription>
+      <Note/>
+      <Features>
+        <FeatureID>107</FeatureID>
+        <FeatureID>50</FeatureID>
+        <FeatureID>28</FeatureID>
+        <FeatureID>14</FeatureID>
+        <FeatureID>11</FeatureID>
+        <FeatureID>1</FeatureID>
+      </Features>
+      <Registration>
+        <OpenHouseStart>0544-01-01 00:00:00</OpenHouseStart>
+        <OpenHouseEnd>0544-01-01 00:00:00</OpenHouseEnd>
+        <RegDateRequested>0001-01-01</RegDateRequested>
+      </Registration>
+      <Commercial>
+        <CommNumberOfOffices>0</CommNumberOfOffices>
+        <CommNumberOfFloors>2</CommNumberOfFloors>
+        <CommTotalNumberOfRooms>0</CommTotalNumberOfRooms>
+        <CommBuildingFrontage/>
+        <CommClearanceHeight/>
+        <CommElevators>false</CommElevators>
+        <CommLeaseArea>0</CommLeaseArea>
+        <CommManufacturingSpace/>
+        <CommOfficeSpace/>
+        <CommParking/>
+        <CommPossessionDate/>
+        <CommPricePerArea>0</CommPricePerArea>
+        <CommRetailSpace/>
+        <CommTotalArea>0</CommTotalArea>
+        <CommUseableArea>0</CommUseableArea>
+        <CommWarehouseSpace/>
+        <CommYearBuilt>0000</CommYearBuilt>
+        <CommZoning/>
+      </Commercial>
+      <Images>
+        <DefaultImageSequenceNumber>1</DefaultImageSequenceNumber>
+        <Image/>
+      </Images>
+      <Files>
+        <File>
+          <SequenceNumber>1</SequenceNumber>
+          <FileName/>
+          <FileType/>
+          <URL/>
+          <Description/>
+        </File>
+      </Files>
+      <Videos>
+        <DefaultVideoSequenceNumber>1</DefaultVideoSequenceNumber>
+      </Videos>
+    </Property>
+  </Properties>
+</UploadXML>

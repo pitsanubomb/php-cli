@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UploadXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <System>
+    <PublicKey>QzFPRjE1NjIwMTgwODEzMjAwMzE2NUI3MTgxOTRCMUI1RDVCNzE4MTk0QjFDMDQ=</PublicKey>
+    <Version>MAP 1.1</Version>
+    <SystemName>Saga</SystemName>
+    <SentData Order="Create" SentDate="2562-01-11 04:12:18" Type="Property"/>
+  </System>
+  <Properties>
+    <Property>
+      <Address Country="TH">
+        <Title>{"is":"Nusasiri Grand","en":"Nusasiri Grand","th":"Nusasiri Grand"}</Title>
+        <HouseAddress>{"is":"Thanon Sukhum Vit, Khwaeng Phra Khanong, Khet Khlong Toeit","en":"Thanon Sukhum Vit, Khwaeng Phra Khanong, Khet Khlong Toeit","th":"Thanon Sukhum Vit, Khwaeng Phra Khanong, Khet Khlong Toei"}</HouseAddress>
+        <Street>{"is":"Thanon Sukhum Vit, Khwaeng Phra Khanong, Khet Khlong Toeit","en":"Thanon Sukhum Vit, Khwaeng Phra Khanong, Khet Khlong Toeit","th":"Thanon Sukhum Vit, Khwaeng Phra Khanong, Khet Khlong Toei"}</Street>
+        <HouseNumber/>
+        <PostalCodeID>0</PostalCodeID>
+        <TownID>0</TownID>
+        <RegionID>0</RegionID>
+        <Latitude>13.7192211</Latitude>
+        <Longitude>100.584465</Longitude>
+        <ZoneId>91</ZoneId>
+      </Address>
+      <Information>
+        <PropertyID>100-114-438</PropertyID>
+        <OfficeID>C1OF156201808132003165B718194B1B5D</OfficeID>
+        <SaleID>C1AG201809031630345B8CFF3A665FD</SaleID>
+        <Mode Mode="2"/>
+        <PropertyCategory PropertyCategory="3824"/>
+        <PropertyType PropertyType="3"/>
+        <CurrentListingPrice>39000</CurrentListingPrice>
+        <PropertyAppraisal>0</PropertyAppraisal>
+        <FireAppraisal>0</FireAppraisal>
+        <Mortgage>0</Mortgage>
+        <CurrentListingCurrency CurrentListingCurrency="ISK"/>
+        <RentalPriceGranularity RentalPriceGranularity="2"/>
+        <PropertyStatus PropertyStatus="1"/>
+        <ListingStatus/>
+        <FloorLevel FloorLevel="28.0"/>
+        <TotalArea>73</TotalArea>
+        <LivingArea>0</LivingArea>
+        <LandArea>0</LandArea>
+        <CubicVolume>0</CubicVolume>
+        <TotalNumberOfRooms>4</TotalNumberOfRooms>
+        <NumberOfBathrooms>2</NumberOfBathrooms>
+        <NumberOfLivingrooms>0</NumberOfLivingrooms>
+        <NumberOfBedrooms>2</NumberOfBedrooms>
+        <NumberOfToiletRooms>0</NumberOfToiletRooms>
+        <NumberOfFloors>12</NumberOfFloors>
+        <Entrance> - </Entrance>
+        <Garage>false</Garage>
+        <GarageArea>0</GarageArea>
+        <YearBuild>2007</YearBuild>
+        <UnitOfMeasue UnitOfMeasue="m2"/>
+        <PossessionDate>0001-01-01T00:00:00</PossessionDate>
+        <AvailabilityDate>0001-01-01T00:00:00</AvailabilityDate>
+        <OrigListingDate>2019-01-11T00:00:00</OrigListingDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <AlternateURL/>
+        <VirtualTour/>
+        <Elevator>false</Elevator>
+        <Featured>false</Featured>
+        <ProjectName>{"is":"Nusasiri Grand","en":"Nusasiri Grand","th":"Nusasiri Grand"}</ProjectName>
+        <CompanyName>{"is":null,"en":null,"th":null}</CompanyName>
+        <UnitCode/>
+        <UnitType/>
+      </Information>
+      <Description>
+        <LanguageID/>
+        <DescriptionText>{"en":"&lt;p&gt;Nusasiri Grand Condo&lt;/p&gt;&lt;p&gt;For rent 39,000 baht/month&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2 bed 2 bath&amp;nbsp;&lt;/p&gt;&lt;p&gt;12 floor 73 sq.m&amp;nbsp;.&lt;/p&gt;&lt;p&gt;Close to Ekamai BTS Station&lt;/p&gt;","th":"&lt;p&gt;Nusasiri Grand Condo&lt;/p&gt;&lt;p&gt;For rent 39,000 baht/month&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2 bed 2 bath&amp;nbsp;&lt;/p&gt;&lt;p&gt;12 floor 73 sq.m&amp;nbsp;.&lt;/p&gt;&lt;p&gt;Close to Ekamai BTS Station&lt;/p&gt;","is":""}</DescriptionText>
+      </Description>
+      <EnglishDescription>
+        <LanguageID/>
+        <DescriptionText>{"en":"&lt;p&gt;Nusasiri Grand Condo&lt;/p&gt;&lt;p&gt;For rent 39,000 baht/month&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2 bed 2 bath&amp;nbsp;&lt;/p&gt;&lt;p&gt;12 floor 73 sq.m&amp;nbsp;.&lt;/p&gt;&lt;p&gt;Close to Ekamai BTS Station&lt;/p&gt;","th":"&lt;p&gt;Nusasiri Grand Condo&lt;/p&gt;&lt;p&gt;For rent 39,000 baht/month&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2 bed 2 bath&amp;nbsp;&lt;/p&gt;&lt;p&gt;12 floor 73 sq.m&amp;nbsp;.&lt;/p&gt;&lt;p&gt;Close to Ekamai BTS Station&lt;/p&gt;","is":""}</DescriptionText>
+      </EnglishDescription>
+      <Note/>
+      <Features>
+        <FeatureID>11</FeatureID>
+        <FeatureID>14</FeatureID>
+        <FeatureID>28</FeatureID>
+        <FeatureID>47</FeatureID>
+        <FeatureID>50</FeatureID>
+        <FeatureID>52</FeatureID>
+        <FeatureID>58</FeatureID>
+        <FeatureID>69</FeatureID>
+      </Features>
+      <Registration>
+        <OpenHouseStart>0544-01-01 00:00:00</OpenHouseStart>
+        <OpenHouseEnd>0544-01-01 00:00:00</OpenHouseEnd>
+        <RegDateRequested>0001-01-01</RegDateRequested>
+      </Registration>
+      <Commercial>
+        <CommNumberOfOffices>0</CommNumberOfOffices>
+        <CommNumberOfFloors>12</CommNumberOfFloors>
+        <CommTotalNumberOfRooms>4</CommTotalNumberOfRooms>
+        <CommBuildingFrontage/>
+        <CommClearanceHeight/>
+        <CommElevators>false</CommElevators>
+        <CommLeaseArea>0</CommLeaseArea>
+        <CommManufacturingSpace/>
+        <CommOfficeSpace/>
+        <CommParking/>
+        <CommPossessionDate/>
+        <CommPricePerArea>0</CommPricePerArea>
+        <CommRetailSpace/>
+        <CommTotalArea>0</CommTotalArea>
+        <CommUseableArea>0</CommUseableArea>
+        <CommWarehouseSpace/>
+        <CommYearBuilt>0000</CommYearBuilt>
+        <CommZoning/>
+      </Commercial>
+      <Images>
+        <DefaultImageSequenceNumber>1</DefaultImageSequenceNumber>
+        <Image>
+          <SequenceNumber>1</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054520/1.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>2</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054520/2.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>3</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054520/3.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>4</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054520/4.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>5</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054520/5.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>6</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054520/6.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>7</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054520/7.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>8</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054520/8.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+      </Images>
+      <Files>
+        <File>
+          <SequenceNumber>1</SequenceNumber>
+          <FileName/>
+          <FileType/>
+          <URL/>
+          <Description/>
+        </File>
+      </Files>
+      <Videos>
+        <DefaultVideoSequenceNumber>1</DefaultVideoSequenceNumber>
+      </Videos>
+    </Property>
+  </Properties>
+</UploadXML>

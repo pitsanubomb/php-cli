@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UploadXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <System>
+    <PublicKey>QzFPRjE1NjIwMTgwODEzMjAwMzE2NUI3MTgxOTRCMUI1RDVCNzE4MTk0QjFDMDQ=</PublicKey>
+    <Version>MAP 1.1</Version>
+    <SystemName>Saga</SystemName>
+    <SentData Order="Create" SentDate="2562-01-15 05:44:47" Type="Property"/>
+  </System>
+  <Properties>
+    <Property>
+      <Address Country="TH">
+        <Title>{"en":"Noble Revolve Ratchada 2","is":"Noble Revolve Ratchada 2 for Rent","th":"Noble Revolve รัชดา 2"}</Title>
+        <HouseAddress>{"en":"70/10 เธฃเธฑเธเธ”เธฒเธ เธดเน€เธฉเธ Huai Khwang, Bangkok 10310t","is":"70/10 เธฃเธฑเธเธ”เธฒเธ เธดเน€เธฉเธ Huai Khwang, Bangkok 10310t","th":"70/10 เธฃเธฑเธเธ”เธฒเธ เธดเน€เธฉเธ Huai Khwang, Bangkok 10310"}</HouseAddress>
+        <Street>{"en":"70/10 เธฃเธฑเธเธ”เธฒเธ เธดเน€เธฉเธ Huai Khwang, Bangkok 10310t","is":"70/10 เธฃเธฑเธเธ”เธฒเธ เธดเน€เธฉเธ Huai Khwang, Bangkok 10310t","th":"70/10 เธฃเธฑเธเธ”เธฒเธ เธดเน€เธฉเธ Huai Khwang, Bangkok 10310"}</Street>
+        <HouseNumber/>
+        <PostalCodeID>101701</PostalCodeID>
+        <TownID>1017</TownID>
+        <RegionID>10</RegionID>
+        <Latitude>13.7638693</Latitude>
+        <Longitude>100.569229</Longitude>
+        <ZoneId>109</ZoneId>
+      </Address>
+      <Information>
+        <PropertyID>C1PR201901111711195C386BC7407B4</PropertyID>
+        <OfficeID>C1OF156201808132003165B718194B1B5D</OfficeID>
+        <SaleID>C1AG201809031630345B8CFF3A665FD</SaleID>
+        <Mode Mode="2"/>
+        <PropertyCategory PropertyCategory="3824"/>
+        <PropertyType PropertyType="3"/>
+        <CurrentListingPrice>17000</CurrentListingPrice>
+        <PropertyAppraisal>0</PropertyAppraisal>
+        <FireAppraisal>0</FireAppraisal>
+        <Mortgage>0</Mortgage>
+        <CurrentListingCurrency CurrentListingCurrency="ISK"/>
+        <RentalPriceGranularity RentalPriceGranularity="2"/>
+        <PropertyStatus PropertyStatus="1"/>
+        <ListingStatus/>
+        <FloorLevel FloorLevel="42.0"/>
+        <TotalArea>25.45</TotalArea>
+        <LivingArea>0</LivingArea>
+        <LandArea>0</LandArea>
+        <CubicVolume>0</CubicVolume>
+        <TotalNumberOfRooms>2</TotalNumberOfRooms>
+        <NumberOfBathrooms>1</NumberOfBathrooms>
+        <NumberOfLivingrooms>0</NumberOfLivingrooms>
+        <NumberOfBedrooms>1</NumberOfBedrooms>
+        <NumberOfToiletRooms>0</NumberOfToiletRooms>
+        <NumberOfFloors>18</NumberOfFloors>
+        <Entrance> - </Entrance>
+        <Garage>false</Garage>
+        <GarageArea>0</GarageArea>
+        <YearBuild>2016</YearBuild>
+        <UnitOfMeasue UnitOfMeasue="m2"/>
+        <PossessionDate>0001-01-01T00:00:00</PossessionDate>
+        <AvailabilityDate>0001-01-01T00:00:00</AvailabilityDate>
+        <OrigListingDate>2019-01-11T00:00:00</OrigListingDate>
+        <ExpiryDate>0001-01-01T00:00:00</ExpiryDate>
+        <AlternateURL/>
+        <VirtualTour/>
+        <Elevator>false</Elevator>
+        <Featured>false</Featured>
+        <ProjectName>{"en":"Noble Revolve Ratchada 2","is":"Noble Revolve Ratchada 2","th":"Noble Revolve Ratchada 2"}</ProjectName>
+        <CompanyName>{"en":null,"is":null,"th":null}</CompanyName>
+        <UnitCode/>
+        <UnitType/>
+      </Information>
+      <Description>
+        <LanguageID/>
+        <DescriptionText>{"en":"&lt;p&gt;Noble Revolve Ratchada 2&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ1 Bedroom 1 Bathroom&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ25.45 sq.m., 18th Fl.&lt;/p&gt;&lt;p&gt;โ–ซ๏ธCity view&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFully Furnished&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFree big cleaning provided every 3 months&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Facilities :&lt;/p&gt;&lt;p&gt;โ–ซ๏ธSwimming Pool&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFitness Room&lt;/p&gt;&lt;p&gt;โ–ซ๏ธLobby&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธGarden&lt;/p&gt;&lt;p&gt;โ–ซ๏ธParking Lot&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ24&amp;nbsp;hours&amp;nbsp;Security and cctv&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Near by: (walking distance)&lt;/p&gt;&lt;p&gt;โ–ซ๏ธMRT Thailand Cultural Center 200 meters&lt;/p&gt;&lt;p&gt;โ–ซ๏ธEsplanade Cineplex&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธRatchada Rod Fai Night Market&lt;/p&gt;&lt;p&gt;โ–ซ๏ธCentral Plaza Rama9 Shopping Mall&lt;/p&gt;&lt;p&gt;โ–ซ๏ธTrue Tower, AIA, SET&lt;/p&gt;&lt;p&gt;โ–ซ๏ธChina Embassy&lt;/p&gt;","th":"&lt;p&gt;Noble Revolve Ratchada 2&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ1 Bedroom 1 Bathroom&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ25.45 sq.m., 18th Fl.&lt;/p&gt;&lt;p&gt;โ–ซ๏ธCity view&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFully Furnished&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFree big cleaning provided every 3 months&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Facilities :&lt;/p&gt;&lt;p&gt;โ–ซ๏ธSwimming Pool&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFitness Room&lt;/p&gt;&lt;p&gt;โ–ซ๏ธLobby&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธGarden&lt;/p&gt;&lt;p&gt;โ–ซ๏ธParking Lot&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ24&amp;nbsp;hours&amp;nbsp;Security and cctv&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Near by: (walking distance)&lt;/p&gt;&lt;p&gt;โ–ซ๏ธMRT Thailand Cultural Center 200 meters&lt;/p&gt;&lt;p&gt;โ–ซ๏ธEsplanade Cineplex&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธRatchada Rod Fai Night Market&lt;/p&gt;&lt;p&gt;โ–ซ๏ธCentral Plaza Rama9 Shopping Mall&lt;/p&gt;&lt;p&gt;โ–ซ๏ธTrue Tower, AIA, SET&lt;/p&gt;&lt;p&gt;โ–ซ๏ธChina Embassy&lt;/p&gt;","is":"{'th':'&lt;p&gt;เธซเนเธญเธ Studio เธเธเธฒเธ” 23 เธ•เธฃเธก. เนเธเธ Fully Furnished เนเธเธเธฅเธฒเธเธฃเธฑเธเธ”เธฒ เธเธฑเนเธ 18 เธ—เธดเธจเนเธ•เน เธงเธดเธงเธชเธฃเธฐเธงเนเธฒเธขเธเนเธณ&lt;/p&gt;rn&lt;p&gt;เธชเธดเนเธเธญเธณเธเธงเธขเธเธงเธฒเธกเธชเธฐเธ”เธงเธ&lt;/p&gt;rn&lt;p&gt;- เธเธฑเนเธ 1 Lobby, เธฃเนเธฒเธเธเนเธฒ, เธซเนเธญเธเธเธฑเธเธฃเธตเธ”&lt;/p&gt;rn&lt;p&gt;- เธเธฑเนเธ 6 Fitness, เธชเธฐเธงเนเธฒเธขเธเนเธณ Infinity Edge Pool, Party Garden&lt;/p&gt;rn&lt;p&gt;- เธเธฑเนเธ 42 เธชเธงเธเธฅเธญเธขเธเนเธฒ Sky View Garden&lt;/p&gt;rn&lt;p&gt;เน€เธเธฃเธทเนเธญเธเนเธเนเนเธเธเนเธฒ&lt;/p&gt;rn&lt;p&gt;- TV LED 40'&lt;/p&gt;rn&lt;p&gt;- เธ•เธนเนเน€เธขเนเธ 2 เธเธฃเธฐเธ•เธน&lt;/p&gt;rn&lt;p&gt;- เน€เธเธฃเธทเนเธญเธเธ—เธณเธเนเธณเธฃเนเธญเธ&lt;/p&gt;rn&lt;p&gt;- Microwave&lt;/p&gt;rn&lt;p&gt;- เน€เธเธฃเธทเนเธญเธเธเธฑเธเธเนเธฒเธเธฒเธซเธเนเธฒ&lt;/p&gt;rn&lt;p&gt;เธชเธ–เธฒเธเธ—เธตเนเนเธเธฅเนเน€เธเธตเธขเธ&lt;/p&gt;rn&lt;p&gt;- MRT เธจเธนเธเธขเนเธงเธฑเธ’เธเธเธฃเธฃเธก 80 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- Metro Mall ( Amazon, Lawson ) 80 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธซเนเธฒเธ Esplanade เธฃเธฑเธเธ”เธฒ 190 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ AIA Capital Center ( เธฃเนเธฒเธเธญเธฒเธซเธฒเธฃ, 7-11, Fitness First ) 250 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ True Tower 250 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธ•เธฅเธฒเธ”เธซเธฅเธฑเธเธ—เธฃเธฑเธเธขเนเนเธซเนเธเธเธฃเธฐเน€เธ—เธจเนเธ—เธข 300 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธ•เธฅเธฒเธ”เธเธฑเธ”เธฃเธ–เนเธเธฃเธฑเธเธ”เธฒ 300 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธ•เธฅเธฒเธ”เธฅเธฐเธฅเธฒเธขเธ—เธฃเธฑเธเธขเนเธฃเธฑเธเธ”เธฒ 350 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธชเธ–เธฒเธเธ—เธนเธ•เธเธตเธ 400 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ RS Tower 450 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- Big C Homepro 600 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- The Street Ratchada 700 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธซเนเธฒเธ Central rama9 700 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธซเนเธฒเธ Fortune Town, Tesco Lotus 750 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ CP Tower2 800 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ Cyberworld 800 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ G Tower 800 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- MRT เธเธฃเธฐเธฃเธฒเธก9 800 เน€เธกเธ•เธฃ&lt;/p&gt;' ,'en':'&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธฅเนเธญเธขเน€เธเนเธฒ&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;ย Noble revolveย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;ratchada&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;ย 2ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เนเธ•เนเธเธเธฃเธ&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธฃเนเธญเธกเน€เธเนเธฒเธญเธขเธนเนrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธฑเนเธ&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;ย 11ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธงเธดเธงเธ–เธเธเธฃเธฑเธเธ”เธฒ&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธเธฒเธ”เธซเนเธญเธ&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;ย 25.35ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธ•เธฃเธก&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;.rn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เน€เธเธฃเธทเนเธญเธเนเธเนเนเธเธเนเธฒrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธ•เธนเนเน€เธขเนเธ&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;ย 2เธเธฒเธrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;- TV 42'rn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เน€เธเธฃเธทเนเธญเธเธเธฑเธเธเนเธฒเธเธฒเธซเธเนเธฒrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เน€เธเธฃเธทเนเธญเธเธญเธเธเนเธฒrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เนเธกเนเธเธฃเน€เธงเธrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เนเธญเธฃเนrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เน€เธเธฃเธทเนเธญเธเธ—เธณเธเนเธณเธฃเนเธญเธrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธฃเนเธญเธกเน€เธเธญเธฃเนเธเธดเน€เธเธญเธฃเนrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;- เน€เธ•เธตเธขเธเธเธฃเนเธญเธกเธ—เธตเนเธเธญเธ5ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธธเธ•rn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' style='margin: 0px; padding: 0px; u"}</DescriptionText>
+      </Description>
+      <EnglishDescription>
+        <LanguageID/>
+        <DescriptionText>{"en":"&lt;p&gt;Noble Revolve Ratchada 2&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ1 Bedroom 1 Bathroom&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ25.45 sq.m., 18th Fl.&lt;/p&gt;&lt;p&gt;โ–ซ๏ธCity view&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFully Furnished&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFree big cleaning provided every 3 months&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Facilities :&lt;/p&gt;&lt;p&gt;โ–ซ๏ธSwimming Pool&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFitness Room&lt;/p&gt;&lt;p&gt;โ–ซ๏ธLobby&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธGarden&lt;/p&gt;&lt;p&gt;โ–ซ๏ธParking Lot&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ24&amp;nbsp;hours&amp;nbsp;Security and cctv&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Near by: (walking distance)&lt;/p&gt;&lt;p&gt;โ–ซ๏ธMRT Thailand Cultural Center 200 meters&lt;/p&gt;&lt;p&gt;โ–ซ๏ธEsplanade Cineplex&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธRatchada Rod Fai Night Market&lt;/p&gt;&lt;p&gt;โ–ซ๏ธCentral Plaza Rama9 Shopping Mall&lt;/p&gt;&lt;p&gt;โ–ซ๏ธTrue Tower, AIA, SET&lt;/p&gt;&lt;p&gt;โ–ซ๏ธChina Embassy&lt;/p&gt;","th":"&lt;p&gt;Noble Revolve Ratchada 2&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ1 Bedroom 1 Bathroom&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ25.45 sq.m., 18th Fl.&lt;/p&gt;&lt;p&gt;โ–ซ๏ธCity view&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFully Furnished&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFree big cleaning provided every 3 months&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Facilities :&lt;/p&gt;&lt;p&gt;โ–ซ๏ธSwimming Pool&lt;/p&gt;&lt;p&gt;โ–ซ๏ธFitness Room&lt;/p&gt;&lt;p&gt;โ–ซ๏ธLobby&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธGarden&lt;/p&gt;&lt;p&gt;โ–ซ๏ธParking Lot&lt;/p&gt;&lt;p&gt;โ–ซ๏ธ24&amp;nbsp;hours&amp;nbsp;Security and cctv&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Near by: (walking distance)&lt;/p&gt;&lt;p&gt;โ–ซ๏ธMRT Thailand Cultural Center 200 meters&lt;/p&gt;&lt;p&gt;โ–ซ๏ธEsplanade Cineplex&amp;nbsp;&lt;/p&gt;&lt;p&gt;โ–ซ๏ธRatchada Rod Fai Night Market&lt;/p&gt;&lt;p&gt;โ–ซ๏ธCentral Plaza Rama9 Shopping Mall&lt;/p&gt;&lt;p&gt;โ–ซ๏ธTrue Tower, AIA, SET&lt;/p&gt;&lt;p&gt;โ–ซ๏ธChina Embassy&lt;/p&gt;","is":"{'th':'&lt;p&gt;เธซเนเธญเธ Studio เธเธเธฒเธ” 23 เธ•เธฃเธก. เนเธเธ Fully Furnished เนเธเธเธฅเธฒเธเธฃเธฑเธเธ”เธฒ เธเธฑเนเธ 18 เธ—เธดเธจเนเธ•เน เธงเธดเธงเธชเธฃเธฐเธงเนเธฒเธขเธเนเธณ&lt;/p&gt;rn&lt;p&gt;เธชเธดเนเธเธญเธณเธเธงเธขเธเธงเธฒเธกเธชเธฐเธ”เธงเธ&lt;/p&gt;rn&lt;p&gt;- เธเธฑเนเธ 1 Lobby, เธฃเนเธฒเธเธเนเธฒ, เธซเนเธญเธเธเธฑเธเธฃเธตเธ”&lt;/p&gt;rn&lt;p&gt;- เธเธฑเนเธ 6 Fitness, เธชเธฐเธงเนเธฒเธขเธเนเธณ Infinity Edge Pool, Party Garden&lt;/p&gt;rn&lt;p&gt;- เธเธฑเนเธ 42 เธชเธงเธเธฅเธญเธขเธเนเธฒ Sky View Garden&lt;/p&gt;rn&lt;p&gt;เน€เธเธฃเธทเนเธญเธเนเธเนเนเธเธเนเธฒ&lt;/p&gt;rn&lt;p&gt;- TV LED 40'&lt;/p&gt;rn&lt;p&gt;- เธ•เธนเนเน€เธขเนเธ 2 เธเธฃเธฐเธ•เธน&lt;/p&gt;rn&lt;p&gt;- เน€เธเธฃเธทเนเธญเธเธ—เธณเธเนเธณเธฃเนเธญเธ&lt;/p&gt;rn&lt;p&gt;- Microwave&lt;/p&gt;rn&lt;p&gt;- เน€เธเธฃเธทเนเธญเธเธเธฑเธเธเนเธฒเธเธฒเธซเธเนเธฒ&lt;/p&gt;rn&lt;p&gt;เธชเธ–เธฒเธเธ—เธตเนเนเธเธฅเนเน€เธเธตเธขเธ&lt;/p&gt;rn&lt;p&gt;- MRT เธจเธนเธเธขเนเธงเธฑเธ’เธเธเธฃเธฃเธก 80 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- Metro Mall ( Amazon, Lawson ) 80 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธซเนเธฒเธ Esplanade เธฃเธฑเธเธ”เธฒ 190 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ AIA Capital Center ( เธฃเนเธฒเธเธญเธฒเธซเธฒเธฃ, 7-11, Fitness First ) 250 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ True Tower 250 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธ•เธฅเธฒเธ”เธซเธฅเธฑเธเธ—เธฃเธฑเธเธขเนเนเธซเนเธเธเธฃเธฐเน€เธ—เธจเนเธ—เธข 300 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธ•เธฅเธฒเธ”เธเธฑเธ”เธฃเธ–เนเธเธฃเธฑเธเธ”เธฒ 300 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธ•เธฅเธฒเธ”เธฅเธฐเธฅเธฒเธขเธ—เธฃเธฑเธเธขเนเธฃเธฑเธเธ”เธฒ 350 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธชเธ–เธฒเธเธ—เธนเธ•เธเธตเธ 400 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ RS Tower 450 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- Big C Homepro 600 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- The Street Ratchada 700 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธซเนเธฒเธ Central rama9 700 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธซเนเธฒเธ Fortune Town, Tesco Lotus 750 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ CP Tower2 800 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ Cyberworld 800 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- เธญเธฒเธเธฒเธฃ G Tower 800 เน€เธกเธ•เธฃ&lt;/p&gt;rn&lt;p&gt;- MRT เธเธฃเธฐเธฃเธฒเธก9 800 เน€เธกเธ•เธฃ&lt;/p&gt;' ,'en':'&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธฅเนเธญเธขเน€เธเนเธฒ&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;ย Noble revolveย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;ratchada&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;ย 2ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เนเธ•เนเธเธเธฃเธ&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธฃเนเธญเธกเน€เธเนเธฒเธญเธขเธนเนrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธฑเนเธ&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;ย 11ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธงเธดเธงเธ–เธเธเธฃเธฑเธเธ”เธฒ&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธเธฒเธ”เธซเนเธญเธ&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;ย 25.35ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธ•เธฃเธก&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;.rn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เน€เธเธฃเธทเนเธญเธเนเธเนเนเธเธเนเธฒrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธ•เธนเนเน€เธขเนเธ&lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;ย 2เธเธฒเธrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;- TV 42'rn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เน€เธเธฃเธทเนเธญเธเธเธฑเธเธเนเธฒเธเธฒเธซเธเนเธฒrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เน€เธเธฃเธทเนเธญเธเธญเธเธเนเธฒrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เนเธกเนเธเธฃเน€เธงเธrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เนเธญเธฃเนrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เน€เธเธฃเธทเนเธญเธเธ—เธณเธเนเธณเธฃเนเธญเธrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธฃเนเธญเธกเน€เธเธญเธฃเนเธเธดเน€เธเธญเธฃเนrn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;- เน€เธ•เธตเธขเธเธเธฃเนเธญเธกเธ—เธตเนเธเธญเธ5ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' xml:lang='AR-SA'&gt;&lt;span class='SpellingError SCXW89896723'data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw=='); border-bottom: 1px solid transparent; background-color: inherit;'&gt;เธเธธเธ•rn&lt;p class='Paragraph SCXW89896723'&gt;&lt;span&gt;&lt;span class='TextRun SCXW89896723' lang='EN-US' xml:lang='EN-US'&gt;&lt;span class='NormalTextRun SCXW89896723'&gt;-ย &lt;/span&gt;&lt;/span&gt;&lt;span class='TextRun SCXW89896723' lang='AR-SA' style='margin: 0px; padding: 0px; u"}</DescriptionText>
+      </EnglishDescription>
+      <Note/>
+      <Features>
+        <FeatureID>106</FeatureID>
+        <FeatureID>57</FeatureID>
+        <FeatureID>54</FeatureID>
+        <FeatureID>52</FeatureID>
+        <FeatureID>50</FeatureID>
+        <FeatureID>49</FeatureID>
+        <FeatureID>47</FeatureID>
+        <FeatureID>59</FeatureID>
+        <FeatureID>41</FeatureID>
+        <FeatureID>40</FeatureID>
+        <FeatureID>38</FeatureID>
+        <FeatureID>15</FeatureID>
+        <FeatureID>14</FeatureID>
+        <FeatureID>11</FeatureID>
+        <FeatureID>9</FeatureID>
+        <FeatureID>8</FeatureID>
+        <FeatureID>7</FeatureID>
+        <FeatureID>6</FeatureID>
+        <FeatureID>3</FeatureID>
+        <FeatureID>2</FeatureID>
+        <FeatureID>1</FeatureID>
+      </Features>
+      <Registration>
+        <OpenHouseStart>0544-01-01 00:00:00</OpenHouseStart>
+        <OpenHouseEnd>0544-01-01 00:00:00</OpenHouseEnd>
+      </Registration>
+      <Commercial>
+        <CommNumberOfFloors>18</CommNumberOfFloors>
+        <CommTotalNumberOfRooms>2</CommTotalNumberOfRooms>
+        <CommBuildingFrontage/>
+        <CommClearanceHeight/>
+        <CommElevators>false</CommElevators>
+        <CommManufacturingSpace/>
+        <CommOfficeSpace/>
+        <CommParking/>
+        <CommPossessionDate/>
+        <CommRetailSpace/>
+        <CommWarehouseSpace/>
+        <CommYearBuilt>0000</CommYearBuilt>
+        <CommZoning/>
+      </Commercial>
+      <Images>
+        <DefaultImageSequenceNumber>1</DefaultImageSequenceNumber>
+        <Image>
+          <SequenceNumber>1</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054523/1.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>2</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054523/2.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>3</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054523/3.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>4</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054523/4.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>5</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054523/5.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>6</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054523/6.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>7</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054523/7.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>8</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054523/8.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+        <Image>
+          <SequenceNumber>9</SequenceNumber>
+          <FileName>http://saga.softverk.co.th/saga.transport/map/68/10054523/9.jpg</FileName>
+          <DescriptiveName/>
+          <Alt/>
+        </Image>
+      </Images>
+      <Files>
+        <File>
+          <SequenceNumber>1</SequenceNumber>
+          <FileName/>
+          <FileType/>
+          <URL/>
+          <Description/>
+        </File>
+      </Files>
+      <Videos>
+        <DefaultVideoSequenceNumber>1</DefaultVideoSequenceNumber>
+      </Videos>
+    </Property>
+  </Properties>
+</UploadXML>

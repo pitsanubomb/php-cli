@@ -1,0 +1,45 @@
+Take The xml in question . 
+
+1. Please write a php cli script which can be called like this:
+  # php importPropertyFromXml.php  --filePath=[C:\Documents\propertyCreate1.xml]
+and it will import the data from xml into the database . You should have atleast the following tables and define relationship between them:
+  properties  : property information table
+  images      : image table
+  features    : features table. you can make up the features like featureA,featureB with the IDs that matches your xml
+  geodata     : table to store address ( like country id , province id , postal code id , latitude , longitude etc )
+
+
+2. Please write a second php cli script which prints out the property information that you had just inserted.  in the given language. if the selected language is not found , you can default to english.
+
+for example : 
+   # php showProperty.php --language=th
+
+   id              :		1
+   title           :		Noble Revolve รัชดา 2    
+   address         :        .....    
+   ....			   :		.........
+
+
+    # php showProperty.php --language=en
+
+   id              :		1
+   title           :		Noble Revolve Rachada 2    
+   address         :        .....    
+   ....			   :		.........
+
+
+   # php showProperty.php --language=bn                 ( unkown language tag will default to english language)
+
+   id              :		1
+   title           :		Noble Revolve Rachada 2    
+   address         :        .....    
+   ....			   :		.........
+
+
+
+Notes:
+   1. Use Doctrine (https://www.doctrine-project.org/projects/orm.html) for database connection
+   2. Use log4net  (https://logging.apache.org/log4php/) for logging , not simple echo
+   3. Signup here: https://cloudinary.com/ and store your images online. you can find cloudinary composer if you search online
+   4. Use composer to install necessary libraries
+
