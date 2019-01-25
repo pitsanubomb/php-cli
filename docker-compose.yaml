@@ -9,8 +9,9 @@ services :
       - 80:80
   
   composer:
-    image: composer/composer:php7
+    image: composer:latest
     command: install
+    command: update
     volumes:
       - .:/app
   
