@@ -13,9 +13,18 @@ services :
     command: install
     volumes:
       - .:/app
-      
-  mysql:
+  
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
+    depends_on:
+      - db
+
+  db:
     image: mysql
+    command: mysqld --default-authentication-plugin=mysql_native_password
     ports:
       - "3306:3306"
     environment:
