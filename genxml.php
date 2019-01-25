@@ -19,6 +19,8 @@ $xmlfile_2 = './propertyCreate2.xml';
             $typeData = strtolower($typeData);
             $propperty = $data['Property'];
 
+            $dataList = array();
+
             if($typeData == 'address') $arrData = $propperty['Address'];
             else if($typeData == 'information') $arrData= $propperty['Information'];
             else if ($typeData == 'description') $arrData = $propperty['Description'];
@@ -26,10 +28,10 @@ $xmlfile_2 = './propertyCreate2.xml';
             foreach($arrData as $title => $fetchData) {
                 if(gettype($fetchData) == 'array' && count($fetchData)!=0) {
                     foreach($fetchData as $key => $v) {
-                        if(gettype($v)!=='array') $log->info('Key is : '.$key.' And value is : '.$v.'</br>');
+                        if(gettype($v)!=='array') $dataList[$key] = $v;
                         else {
                             foreach($v as $k => $fetch){
-                                $log->info($k.' is : '.$fetch.'</br>');
+                                $dataList[$k] = $fetch;
                             }
                         }
                     }
@@ -37,31 +39,19 @@ $xmlfile_2 = './propertyCreate2.xml';
                     if(count($this->JsonToarray($fetchData)) > 1) {
                         $arr = $this->JsonToarray($fetchData);
                         foreach($arr as $lang => $value) {
-                            if($value != null) $log->info($title.' lang '.$lang.' '.$value.'</br>');
-                        }
-                        echo '</br>';    
+                            $dataList[$title][$lang] = $value;
+                        }    
                     }else {
-                        $log->info($title.' is : '.$fetchData.'</br>');
+                        $dataList[$title] = $fetchData;
                     }
                 }
             }
+
+            return $dataList;
         }
 
         function JsonToarray($array) {
             return (array) json_decode($array,TRUE);
         }
     }
-    $log = Logger::getLogger("propertydata");
-
-    $properties = new genXml();
-    $propData = $properties->genXmltoArray($xmlfile_1);
-    
-    $log->info('Address <br/>');
-    $properties->extractAllDataBytype($propData,'Address');
-
-    $log->info('<br/><br/><br/> Information <br/>');
-    $properties->extractAllDataBytype($propData,'Information');
-    
-    $log->info('<br/><br/><br/> Description <br/>');
-    $properties->extractAllDataBytype($propData,'Description');
 ?>
