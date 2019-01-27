@@ -1,6 +1,6 @@
 <?php
     /**
-    * @Entity @Table(name="geodata")
+    * @Entity @Table(name="geo")
     */
     class Geodata
     {
