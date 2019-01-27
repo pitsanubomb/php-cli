@@ -5,21 +5,21 @@
     class InformationData
     {
         /**
-        * One Information has One Geo.
-        * @OneToOne(targetEntity="geo")
+        * One InformationData has One GeoData.
+        * @OneToOne(targetEntity="geoData")
         * @JoinColumn(name="geoid", referencedColumnName="id")
         */
-        private $geodata;
+        private $geoData;
         /** @Id @Column(type="integer") @GeneratedValue */
         protected $id;
         /** @Column(type="string") */
         protected $propertyid;
         /** @Column(type="string") */
-        protected $Officeid;
+        protected $officeid;
         /** @Column(type="string") */
         protected $saleid;
         /** @Column(type="integer") */
-        protected $model;
+        protected $mode;
         /** @Column(type="integer") */
         protected $propertycategory;
         /** @Column(type="integer") */
@@ -38,35 +38,35 @@
         protected $rentalpricegranularity;
         /** @Column(type="integer") */
         protected $propertystatus;
-        /** @Column(type="double") */
+        /** @Column(type="float") */
         protected $floorlevel;
-        /** @Column(type="double") */
+        /** @Column(type="float") */
         protected $totalarea;
-        /** @Column(type="double") */
+        /** @Column(type="float") */
         protected $livingarea;
-        /** @Column(type="double") */        
+        /** @Column(type="float") */        
         protected $landarea;
-        /** @Column(type="double") */
+        /** @Column(type="float") */
         protected $cubicvolume;
-        /** @Column(type="int") */
+        /** @Column(type="integer") */
         protected $totalnumberofrooms;
-        /** @Column(type="int") */
+        /** @Column(type="integer") */
         protected $numberofbathrooms;
-        /** @Column(type="int") */
+        /** @Column(type="integer") */
         protected $numberoflivingrooms;
-        /** @Column(type="int") */
+        /** @Column(type="integer") */
         protected $numberofbedrooms;
-        /** @Column(type="int") */
+        /** @Column(type="integer") */
         protected $numberoftoiletrooms;
-        /** @Column(type="int") */
+        /** @Column(type="integer") */
         protected $numberoffloors;
         /** @Column(type="string") */
         protected $entrance;
         /** @Column(type="boolean") */
         protected $garage;
-        /** @Column(type="double") */
+        /** @Column(type="float") */
         protected $garagearea;
-        /** @Column(type="int") */
+        /** @Column(type="integer") */
         protected $yearbuild;
         /** @Column(type="string") */
         protected $unitofmeasue;
@@ -91,12 +91,12 @@
             return $this->id;
         }
 
-        public function setGeoData(Geodata $geodata) {
-            $this->geodata = $geodata;
+        public function setGeo(GeoData $geo) {
+            $this->geoData = $geo;
         }
 
-        public function getGeoData() {
-            return $this->geodata;
+        public function getGeo() {
+            return $this->geoData;
         }
 
         public function setPropertyId($propertyid) {
@@ -123,11 +123,11 @@
             return $this->saleid;
         }
 
-        public function setModel($model) {
-            $this->model = $model;
+        public function setMode($mode) {
+            $this->mode = $mode;
         }
 
-        public function getModel() {
+        public function getMode() {
             return $this->model;
         }
 
@@ -187,7 +187,7 @@
             return $this->curretlistingcurrency;
         }
 
-        public function setRentalPriceGranularity() {
+        public function setRentalPriceGranularity($rentalpricegranularity) {
             $this->rentalpricegranularity = $rentalpricegranularity;
         }
 
@@ -196,7 +196,7 @@
         }
 
         public function setPropertyStatus($propertystatus) {
-            return $this->setpropertystatus = $propertystatus
+            return $this->propertystatus = $propertystatus;
         }
 
         public function getPropertyStatus(){
@@ -268,7 +268,7 @@
         }
 
         public function setNumberOfBedrooms($numberofbedrooms) {
-            $this->numberofbathrooms = $numberofbedrooms;
+            $this->numberofbedrooms = $numberofbedrooms;
         }
 
         public function getNumberOfBedrooms() {
@@ -348,7 +348,7 @@
         }
 
         public function setOrigListingDate($origlistingdate) {
-            $this->setoriglistingdate = $origlistingdate;
+            $this->origlistingdate = $origlistingdate;
         }
 
         public function getOrigListingDate() {

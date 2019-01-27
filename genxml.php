@@ -4,8 +4,12 @@ require 'vendor/autoload.php';
         function genXmltoArray($file) {
             $xmlfile = $file;
 
-            $xmlObj = simplexml_load_file($xmlfile);
-            $xmltoJson = json_encode($xmlObj);
+            $xmlObj = simplexml_load_file($xmlfile) or die('Can\'t create Object');
+            try {
+                $xmltoJson = json_encode($xmlObj);
+            } catch (Exception $e) {
+                throw $e->getMessage();
+            }
 
             $properties = json_decode($xmltoJson,TRUE);
             return $properties['Properties'];

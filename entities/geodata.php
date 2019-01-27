@@ -2,7 +2,7 @@
     /**
     * @Entity @Table(name="geo")
     */
-    class Geodata
+    class GeoData
     {
         /** @Id @Column(type="integer") @GeneratedValue */
         protected $id;
