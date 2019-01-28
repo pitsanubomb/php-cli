@@ -15,7 +15,7 @@ require 'vendor/autoload.php';
             return $properties['Properties'];
         }
         
-        function extractAllDataBytype($data,$typeData) {
+        function extractAllDataByType($data,$typeData) {
             
             $log = Logger::getLogger("extractalldata");
             $typeData = strtolower($typeData);
@@ -26,14 +26,16 @@ require 'vendor/autoload.php';
             if($typeData == 'address') $arrData = $propperty['Address'];
             else if($typeData == 'information') $arrData= $propperty['Information'];
             else if ($typeData == 'description') $arrData = $propperty['Description'];
-
+            else if($typeData == 'features') $arrData = $propperty['Features'];
+            else if($typeData == 'images') $arrData = $propperty['Images'];
+            
             foreach($arrData as $title => $fetchData) {
                 if(gettype($fetchData) == 'array' && count($fetchData)!=0) {
                     foreach($fetchData as $key => $v) {
                         if(gettype($v)!=='array') $dataList[$key] = $v;
                         else {
                             foreach($v as $k => $fetch){
-                                $dataList[$k] = $fetch;
+                                $dataList[$key][$k] = $fetch;
                             }
                         }
                     }
@@ -41,7 +43,7 @@ require 'vendor/autoload.php';
                     if(count($this->JsonToarray($fetchData)) > 1) {
                         $arr = $this->JsonToarray($fetchData);
                         foreach($arr as $lang => $value) {
-                            $dataList[$title][$lang] = $value;
+                            if($value !== null) $dataList[$title][$lang] = $value;
                         }    
                     }else {
                         $dataList[$title] = $fetchData;
