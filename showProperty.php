@@ -70,7 +70,7 @@
     $l = Logger::getLogger("Debug data");
 
     try {
-        $dataDb = $showAll->fetchData(2);
+        $dataDb = $showAll->fetchData(1);
     } catch (Exception $e) {
         $l->error('Can\'t fetch data!! '.$e->getMessage());
         exit(1);
