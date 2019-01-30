@@ -72,7 +72,7 @@
     try {
         $dataDb = $showAll->fetchData(1);
     } catch (Exception $e) {
-        $l->error('Can\'t fetch data!! '.$e->getMessage());
+        $l->error('Can\'t fetch data!!  '.$e->getMessage());
         exit(1);
     }
 
