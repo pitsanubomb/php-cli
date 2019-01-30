@@ -82,7 +82,7 @@
         }
 
         public function getLatiTude() {
-            return $this->lattitude;
+            return $this->latitude;
         }
 
         public function setLongtiTude($longtitude) {

@@ -93,9 +93,14 @@ use Doctrine\Common\Collections\ArrayCollection;
         * @var Image[]
         */
         protected $addimageurl = null;
+        /**
+        * @ManyToMany(targetEntity="FeatureData")
+        */
+        protected $features;
 
         public function __construct() {
             $this->addimageurl = new ArrayCollection();
+            $this->features = new ArrayCollection();
         }
 
         public function getId() {
@@ -163,7 +168,7 @@ use Doctrine\Common\Collections\ArrayCollection;
         }
 
         public function getCurrentListingPrice() {
-            return $this->$currentlistingprice;
+            return $this->currentlistingprice;
         }
 
         public function setPropertyAppraisal($propertyappraisal) {
@@ -408,6 +413,14 @@ use Doctrine\Common\Collections\ArrayCollection;
 
         public function addimageurl($image) {
             $this->addimageurl[] = $image;
+        }
+
+        public function addFeatures($feature) {
+            $this->features[] = $feature;
+        }
+
+        public function getFeatures() {
+            return $this->features;
         }
     }
 ?>
