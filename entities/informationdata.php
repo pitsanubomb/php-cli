@@ -1,4 +1,6 @@
 <?php
+use Doctrine\Common\Collections\ArrayCollection;
+
     /**
     * @Entity @Table(name="information")
     */
@@ -86,6 +88,15 @@
         protected $projectname;
         /** @Column(type="string") */
         protected $companyname;
+        /**
+        * @OneToMany(targetEntity="ImageData", mappedBy="imageurl")
+        * @var Image[]
+        */
+        protected $addimageurl = null;
+
+        public function __construct() {
+            $this->addimageurl = new ArrayCollection();
+        }
 
         public function getId() {
             return $this->id;
@@ -393,6 +404,10 @@
 
         public function getCompanyName() {
             return $this->companyname;
+        }
+
+        public function addimageurl($image) {
+            $this->addimageurl[] = $image;
         }
     }
 ?>
