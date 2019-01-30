@@ -1,5 +1,5 @@
 <?php
-require 'vendor/autoload.php';
+
     class genXml {
         function genXmltoArray($file) {
             $xmlfile = $file;
@@ -16,8 +16,6 @@ require 'vendor/autoload.php';
         }
         
         function extractAllDataByType($data,$typeData) {
-            
-            $log = Logger::getLogger("extractalldata");
             $typeData = strtolower($typeData);
             $propperty = $data['Property'];
 
@@ -35,7 +33,8 @@ require 'vendor/autoload.php';
                         if(gettype($v)!=='array') $dataList[$key] = $v;
                         else {
                             foreach($v as $k => $fetch){
-                                $dataList[$key][$k] = $fetch;
+                                if($key !== '@attributes') $dataList[$key][$k] = $fetch;
+                                else $dataList[$k] = $fetch;
                             }
                         }
                     }
