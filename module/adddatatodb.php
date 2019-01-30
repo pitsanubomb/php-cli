@@ -119,8 +119,8 @@
             $imagedata->setDefaultImageSequenceNumber($Imagedata['DefaultImageSequenceNumber']);
             $imagedata->setSequenceNumber($Imagedata[$index]['SequenceNumber']);
             $imagedata->setFileName($img_url);
-            $imagedata->setDescriptiveName($Imagedata[$index]['setDescriptiveName'][0] || '');
-            $imagedata->setAlt($Imagedata[$index]['Alt'][0] || '');
+            $imagedata->setDescriptiveName(($Imagedata[$index]['setDescriptiveName'][0] !==null ? $Imagedata[$index]['setDescriptiveName'][0] : '')); 
+            $imagedata->setAlt(($Imagedata[$index]['Alt'][0] !==null ? $Imagedata[$index]['Alt'][0] : '')));
             $imagedata->setImageUrl($informationDb);
             
             $this->em->persist($imagedata);
